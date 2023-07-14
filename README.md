@@ -6,7 +6,7 @@ Software Engineer
 
 I am a software engineer with almost 3 years of experience in the field working in the mobile applications development.
 
-* 🌍  I'm based in Nepal
+* 🌍  I'm based in Kathmandu
 * ✉️  You can contact me at [jhabhishek.developer@gmail.com](mailto:jhabhishek.developer@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects
 
