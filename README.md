@@ -37,6 +37,8 @@ I have almost 3 years of experience in the field working in the mobile applicati
 
 ### Badges
 
+[![An image of @zhaabhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zhaabhi)](https://holopin.io/@zhaabhi)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ZhaAbhi"><img src="https://github-readme-stats.vercel.app/api?username=ZhaAbhi&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="ZhaAbhi's GitHub stats" /></a>
