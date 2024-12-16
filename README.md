@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I have almost 3 years of experience in the field working in the mobile applications development.
+I have years of experience in the field working in the mobile applications development and backend development.
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [jhabhishek.developer@gmail.com](mailto:jhabhishek.developer@gmail.com)
